@@ -1,7 +1,4 @@
-# Code Institute
+# Django Blog Mini-project
 
-Welcome PeterLenting,
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+[![Build Status](https://travis-ci.org/PeterLenting/django-blog.svg?branch=master)](https://travis-ci.org/PeterLenting/django-blog)
